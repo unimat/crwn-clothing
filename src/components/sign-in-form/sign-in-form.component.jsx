@@ -8,7 +8,6 @@ import {
   signInAuthUserWithEmailAndPassword,
 } from '../../utils/firebase/firebase.utils';
 
-// import './sign-in-form.styles.scss';
 import { SignInContainer, ButtonsContainer } from './sign-in-form.styles';
 
 const defaultFormFields = {
